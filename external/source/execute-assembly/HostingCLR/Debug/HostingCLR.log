@@ -1,4 +1,0 @@
-﻿ReflectiveLoader.obj : error LNK2005: _DllMain@12 已经在 Executer.obj 中定义
-     正在创建库 D:\Code\git\ruby\metasploit-execute-assembly\HostingCLR_inject\Debug\HostingCLR.lib 和对象 D:\Code\git\ruby\metasploit-execute-assembly\HostingCLR_inject\Debug\HostingCLR.exp
-ReflectiveLoader.obj : error LNK2019: 无法解析的外部符号 "unsigned long __cdecl Init(unsigned int)" (?Init@@YAKI@Z)，该符号在函数 "int __cdecl MetasploitDllAttach(unsigned int)" (?MetasploitDllAttach@@YAHI@Z) 中被引用
-D:\Code\git\ruby\metasploit-execute-assembly\HostingCLR_inject\Debug\HostingCLR.dll : fatal error LNK1120: 1 个无法解析的外部命令
